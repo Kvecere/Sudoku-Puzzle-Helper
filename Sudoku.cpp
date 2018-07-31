@@ -1,6 +1,6 @@
 /* 4/20/17
 Sudoku Puzzle Assistant
-Made by Kyle Vecere III Esq. pHD MD HIJKLMNOP
+Made by Kyle Vecere
 
 Info: This program allows you to input a sudoku puzzle, then ouputs to a file the potential
 numbers you can put for each cell. Note that for empty cells, a zero must be entered in its place,
